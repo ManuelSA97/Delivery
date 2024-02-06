@@ -4,8 +4,7 @@
   "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp",
-    "build": "npm run build"
+    "dev": "gulp"
   },
   "author": "Manuel Sandi",
   "license": "ISC",
